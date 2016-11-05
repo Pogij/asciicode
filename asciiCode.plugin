@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=asciiCode
+IAge=2
+Name=Ascii Code
+Description=Displays ascii code of the next character in opened file. 
+Authors=Matevž Pogačar
+Copyright=Copyright © 2011 Matevž Pogačar
+Website=
+Version=1.1.0
+
